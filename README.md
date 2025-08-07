@@ -1,9 +1,10 @@
 **STILL UNDER CONSTRUCTION**
-# Hackathon Project Title
+# Team Name : MyDearCoding
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Idea and Theme] (#Idea-and-Theme)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -14,9 +15,14 @@
 
 ## Overview
 
+The project is developed for solving problems related to -topic- ,for -problem statement-. This is a hackathon project for participating in "Smart India Hackathon 2025"
 Describe your project here.  
 What problem does it solve?  
 What makes it unique or interesting?
+
+## Idea and Theme
+
+We are aiming to develop a software based on the problem ___.Our aim is to reach the people who are ___ .The main theme of our concept is to ___
 
 ## Features
 
@@ -39,11 +45,11 @@ What makes it unique or interesting?
 - (Other prerequisites)
 
 Team Members
-R.Barathi Shankar - Role/Responsibility (e.g., Frontend Developer)
+R Barathi Shankar - Role/Responsibility (e.g., Frontend Developer)
 
 Bharath Jeyakkumar S- Role/Responsibility
 
-Billu Besto H - Role/Responsibility
+Bilu Besto H - Role/Responsibility
 
 Vinesh D- Role/Responsibility
 
