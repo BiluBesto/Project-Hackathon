@@ -45,7 +45,7 @@ We are aiming to develop a software based on the problem ___.Our aim is to reach
 - (Other prerequisites)
 
 Team Members
-R Barathi Shankar - Role/Responsibility (e.g., Frontend Developer)
+R Barathi Shankar - CEO
 
 Bharath Jeyakkumar S- Role/Responsibility
 
