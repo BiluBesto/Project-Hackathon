@@ -49,7 +49,7 @@ R Barathi Shankar - Role/Responsibility (e.g., Frontend Developer)
 
 Bharath Jeyakkumar S- Role/Responsibility
 
-Bilu Besto H - Role/Responsibility
+Bilu Besto H - Bug Fixing and Debugging
 
 Vinesh D- Role/Responsibility
 
